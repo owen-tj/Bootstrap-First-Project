@@ -1,0 +1,35 @@
+*{
+    background-color: rgba(234,236,215,0);
+}
+
+
+
+.image-head{
+    background-color: rgba(255,255,255,5);
+    text-align: center;
+    width: 100%;
+}
+
+.nav-link{
+    font-size: 1em;
+    text-align: center;
+    color: black;
+}
+
+.sec-header{
+    font-size: 3em;
+    color: black;
+
+}
+
+.develop, .design, .support, .host{
+    list-style-type: none;
+    border:2px solid black;
+    border-radius: 100%;
+    margin:1px;
+
+}
+.circ-logo{
+
+}
+
