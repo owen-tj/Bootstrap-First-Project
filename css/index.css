@@ -48,6 +48,22 @@
     background-color: #7CB06C;
 }
 
+.head-image-first{
+    background-color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    padding-top: 2px;
+
+}
+
+.head-image{
+    margin-top: -15px;
+    margin-bottom: -13px;
+    clip-path: circle(45%);
+
+
+}
+
 
 .host, .dot-4 {
    background-color: #00ABA9;
@@ -69,7 +85,8 @@
 }
 
 .container-circle{
-    text-align: center;
+
+
 }
 
 .des, .dev, .sup, .host{
@@ -87,6 +104,52 @@
 .nav-item{
     text-align: center;
 }
+
+
+
+
+
+
+.container {
+
+    padding-top: 10px;
+
+}
+
+ @media(max-width: 600px){
+       .invissible{
+           visibility: hidden;
+       }
+     }
+
+@media(max-width: 876px){
+
+}
+
+
+.nav-items{
+    text-align: center;
+}
+
+.bunch-of-pain{
+    text-align: center;
+}
+
+.list-circ{
+    text-align: center;
+}
+
+.mid-headings{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
 
 
 
